@@ -246,6 +246,7 @@
 - [15 Pitfalls That Break Cloud Systems](https://newsletter.systemdesign.one/p/cloud-system-design)
 - [Cybersecurity Terms Every Software Engineer Must Know](https://newsletter.systemdesign.one/p/cybersecurity-fundamentals)
 - [The Entire Computer Science Stack, Explained In 51 Images](https://newsletter.systemdesign.one/p/computer-science-101)
+- [How CDN Works](https://newsletter.systemdesign.one/p/how-does-cdn-work)
 
 
 #### D technologies
